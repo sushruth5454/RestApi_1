@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessType"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.tutorial.demorest.AlienRepository"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.POST"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.PUT"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.DELETE"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.PathParam"/>
+</qualifiedTypeNameHistroy>
